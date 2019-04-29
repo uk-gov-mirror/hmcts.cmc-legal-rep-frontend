@@ -253,9 +253,10 @@
   version "2.2.46"
   resolved "https://registry.yarnpkg.com/@types/mocha/-/mocha-2.2.46.tgz#b04713f7759d1cf752effdaae7b3969e285ebc16"
 
-"@types/nock@^9.1.0":
-  version "9.1.1"
-  resolved "https://registry.yarnpkg.com/@types/nock/-/nock-9.1.1.tgz#0a1d5df5b9fe5b5ac90926156c58f1544ddd3cf5"
+"@types/nock@^10.0.1":
+  version "10.0.1"
+  resolved "https://registry.yarnpkg.com/@types/nock/-/nock-10.0.1.tgz#ca545bdd0c2559fe76e3cda1ba011a74fb940d45"
+  integrity sha512-3Dbkj/f0HxuvyYfInbQCHLASFyjnNUcidabwrbhJDMZOXXznNyQpzsBgZnY2K+c43OekqWvZ+tDjGsGTKm1d5g==
   dependencies:
     "@types/node" "*"
 
